@@ -4,5 +4,5 @@
 *斜体*  
 **粗体**  
 ***粗斜体***  
-[a relative link](README.md)
+[click here to README.md](README.md)
 
